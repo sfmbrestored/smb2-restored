@@ -1,0 +1,218 @@
+{
+	"Frames" : 
+	[
+		{
+			"FaceAngle" : 0,
+			"FaceDirection" : 0,
+			"Offset" : "32.0 135.0",
+			"Rect" : "11 9 77 144",
+			"SubPositions" : 
+			[
+				{
+					"Name" : "Helmet",
+					"Position" : "-1 -22"
+				}
+			]
+		},
+		{
+			"FaceAngle" : 0,
+			"FaceDirection" : 0,
+			"Offset" : "35.0 136.0",
+			"Rect" : "76 8 148 144",
+			"SubPositions" : 
+			[
+				{
+					"Name" : "Helmet",
+					"Position" : "-1 -22"
+				}
+			]
+		},
+		{
+			"FaceAngle" : 0,
+			"FaceDirection" : 0,
+			"Offset" : "33.0 131.0",
+			"Rect" : "148 8 214 139",
+			"SubPositions" : 
+			[
+				{
+					"Name" : "Helmet",
+					"Position" : "0 -20"
+				}
+			]
+		},
+		{
+			"FaceAngle" : 0,
+			"FaceDirection" : 0,
+			"Offset" : "40.0 134.0",
+			"Rect" : "215 10 285 144",
+			"SubPositions" : 
+			[
+				{
+					"Name" : "Helmet",
+					"Position" : "-1 -21"
+				}
+			]
+		},
+		{
+			"FaceAngle" : 0,
+			"FaceDirection" : 0,
+			"Offset" : "36.0 136.0",
+			"Rect" : "275 15 349 144",
+			"SubPositions" : 
+			[
+				{
+					"Name" : "Helmet",
+					"Position" : "-1 -21"
+				}
+			]
+		},
+		{
+			"FaceAngle" : 0,
+			"FaceDirection" : 0,
+			"Offset" : "36.0 135.0",
+			"Rect" : "360 8 431 144",
+			"SubPositions" : 
+			[
+				{
+					"Name" : "Helmet",
+					"Position" : "-1 -20"
+				}
+			]
+		},
+		{
+			"FaceAngle" : 0,
+			"FaceDirection" : 0,
+			"Offset" : "33.0 131.0",
+			"Rect" : "618 13 691 144",
+			"SubPositions" : 
+			[
+				{
+					"Name" : "Helmet",
+					"Position" : "-1 -20"
+				}
+			]
+		},
+		{
+			"FaceAngle" : 0,
+			"FaceDirection" : 0,
+			"Offset" : "41.0 115.0",
+			"Rect" : "441 28 519 144",
+			"SubPositions" : 
+			[
+				{
+					"Name" : "Helmet",
+					"Position" : "0 -12"
+				}
+			]
+		},
+		{
+			"FaceAngle" : 0,
+			"FaceDirection" : 0,
+			"Offset" : "45.0 142.0",
+			"Rect" : "521 4 605 144",
+			"SubPositions" : null
+		},
+		{
+			"FaceAngle" : 0,
+			"FaceDirection" : 0,
+			"Offset" : "36.0 135.0",
+			"Rect" : "3 156 94 293",
+			"SubPositions" : null
+		},
+		{
+			"FaceAngle" : 0,
+			"FaceDirection" : 0,
+			"Offset" : "37.0 135.0",
+			"Rect" : "94 154 186 296",
+			"SubPositions" : null
+		},
+		{
+			"FaceAngle" : 0,
+			"FaceDirection" : 0,
+			"Offset" : "34.0 135.0",
+			"Rect" : "186 154 275 293",
+			"SubPositions" : null
+		},
+		{
+			"FaceAngle" : 0,
+			"FaceDirection" : 0,
+			"Offset" : "37.0 135.0",
+			"Rect" : "278 155 370 296",
+			"SubPositions" : null
+		},
+		{
+			"FaceAngle" : 0,
+			"FaceDirection" : 0,
+			"Offset" : "37.0 135.0",
+			"Rect" : "370 154 451 293",
+			"SubPositions" : null
+		},
+		{
+			"FaceAngle" : 0,
+			"FaceDirection" : 0,
+			"Offset" : "37.0 135.0",
+			"Rect" : "453 152 532 296",
+			"SubPositions" : null
+		},
+		{
+			"FaceAngle" : 0,
+			"FaceDirection" : 0,
+			"Offset" : "34.0 129.0",
+			"Rect" : "694 15 758 296",
+			"SubPositions" : null
+		}
+	],
+	"NamedAnimations" : 
+	[
+		{
+			"Frames" : "5",
+			"Name" : "Crouch"
+		},
+		{
+			"Frames" : "0",
+			"Name" : "Idle"
+		},
+		{
+			"Frames" : "3",
+			"Name" : "Jump"
+		},
+		{
+			"Frames" : "3",
+			"Name" : "JumpDown"
+		},
+		{
+			"Frames" : "2",
+			"Name" : "LookUp"
+		},
+		{
+			"Frames" : "0,1",
+			"Name" : "Run"
+		},
+		{
+			"Frames" : "7,8",
+			"Name" : "RunMax"
+		},
+		{
+			"Frames" : "6",
+			"Name" : "Skid"
+		},
+		{
+			"Frames" : "12,13,14",
+			"Name" : "Swim"
+		},
+		{
+			"Frames" : "9,10,11",
+			"Name" : "SwimIdle"
+		},
+		{
+			"Frames" : "15",
+			"Name" : "ToGiant"
+		},
+		{
+			"Frames" : "0,1",
+			"Name" : "Walk"
+		}
+	],
+	"SubPositions" : "Helmet",
+	"Version" : "Neoarc's Sprite v2.0"
+}
