@@ -1,5 +1,4 @@
-# SMB2: Restored 
-Super Mario Bros. 2 theme replacement for SFMB DEMO 2.1
+# SMB2 theme replacement for SFMB DEMO 2.1
 
 Made by:
 - Nintendp, Keira S., Vini
